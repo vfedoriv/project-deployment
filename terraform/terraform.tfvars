@@ -1,0 +1,5 @@
+project_id = "my-gcp-project"
+region    = "us-central1"
+zone_a    = "us-central1-a"
+zone_b    = "us-central1-b"
+zone_c    = "us-central1-c"
